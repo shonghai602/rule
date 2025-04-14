@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅"
+    url: "https://jmssub.net/members/getsub.php?service=1034399&id=b2780734-827f-46be-8876-aaaa5c55a283"
     type: http
     interval: 86400
     health-check:
